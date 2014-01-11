@@ -1,5 +1,6 @@
 <?php
 //r2_index changes
+//fix number two
 var_dump($_GET);
 // MAke changes or fixed bugs
 /* 
