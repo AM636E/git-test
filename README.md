@@ -8,3 +8,5 @@ the superproject the submodule itself can not be fetched,
 making it impossible to check out that submodule later without having to do a 
 fetch again. This is expected to be fixed in a future Git version.
 
+Some update
+
